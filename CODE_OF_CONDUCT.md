@@ -39,7 +39,7 @@ This Code of Conduct applies within all community spaces and also applies when a
 ---
 
 ## Enforcement
-
+Instances of abusive behavior will be reviewed and appropriate action will be taken.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
 All complaints will be reviewed and investigated promptly and fairly.
